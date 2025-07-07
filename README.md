@@ -52,7 +52,7 @@ The communication scheme between the frontend, backend, and database can be desc
 
 #### *Web Application Communication Diagrama:* 
 
-![alt text](../../../../Downloads/WebCommunicationDiagram.png)
+![WebCommunicationDiagram](https://github.com/user-attachments/assets/50e270d5-a0f6-4893-a375-e0cc16696334)
 
 ---
 
@@ -73,7 +73,7 @@ They are essential for web development, as they allow for analyzing and troubles
 
 #### 📑 Elements Tab:
 
-![alt text](../../../../Downloads/Inspecting_an_image.png)
+![Inspecting_an_image](https://github.com/user-attachments/assets/620710aa-f05f-4a77-a4e2-a5915a4175b8)
 
 During the inspection in the Elements tab, I identified the button corresponding to the user's login or profile. This is an <a> element (hyperlink) with several characteristics:
 
@@ -86,7 +86,7 @@ During the inspection in the Elements tab, I identified the button corresponding
 
 #### 🕹️ Console Tab:
 
-![alt text](../../../../Downloads/warning.png)
+![warning](https://github.com/user-attachments/assets/64cab357-135e-473e-a0e6-f0c1a70d9181)
 
 - I saw an informational message appearing in the DevTools Console tab referring to a change in Chrome's privacy policies
 - I was able to execute JavaScript commands like console.log("Hello world")
@@ -95,7 +95,7 @@ During the inspection in the Elements tab, I identified the button corresponding
 
 Captured HTTP Request!
 
-![alt text](../../../../Downloads/Inspecting_an_HTTP_request.png)
+![Inspecting_an_HTTP_request](https://github.com/user-attachments/assets/38780918-448a-4589-a6ea-26522a49b418)
 
 - Name: account?eom=...
 - Status: 200 OK
@@ -107,7 +107,7 @@ Captured HTTP Request!
 
 #### 🗃️ Storage Tab:
 
-![alt text](../../../../storageTab.png)
+![storageTab](https://github.com/user-attachments/assets/65fb1bc0-e5fe-4b27-81cf-ebf2bc0abb11)
 
 I saw Google cookies with session information
 I identified localStorage with user preferences
@@ -174,7 +174,7 @@ HTML is the skeleton of a web page, providing the basic structure and content, w
 
 ### ⚔️ Java vs JavaScript
 
-![alt text](../../../../JAVA-JS.png)
+![JAVA-JS](https://github.com/user-attachments/assets/321b8854-7541-4fb3-b359-a2874db87f0d)
 
 ### ✨ ~ How they are similar:
 
