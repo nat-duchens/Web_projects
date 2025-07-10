@@ -1,0 +1,28 @@
+/* Grid with named areas*/
+ 
+ 
+.grid-areas-container{
+ display: grid;
+ grid-template-areas: 
+ "goku bardock jiren";
+ gap: 10 px;
+ background-color: aliceblue;
+ padding: 20 px;
+ margin-bottom: 20px;
+}
+ 
+.grid-areas-container img:nth-child(1){
+    grid-area: goku;
+}
+
+.grid-areas-container img:nth-child(2){
+    grid-area: bardock;
+}
+
+.grid-areas-container img:nth-child(3){
+    grid-area: jiren;
+}
+
+.grid-areas-container img {
+    width: 120px;
+}

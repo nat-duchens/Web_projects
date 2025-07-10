@@ -1,0 +1,47 @@
+/* Flexbox Explanation */
+.flex-container {
+    display: flex;
+    gap: 10px;
+    background: #e0f7fa;
+    padding: 10px;
+    justify-content: center; /* Centers elements horizontally */
+    align-items: center;     /* Centers elements vertically */
+}
+.flex-item {
+    background: #00838f;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 1.2em;
+}
+
+/* Explanation of Grid */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns of equal size */
+    gap: 10px;
+    background: #fce4ec;
+    padding: 10px;
+}
+.grid-item {
+    background: #ad1457;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 1.2em;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background: #fafafa;
+}
+h1 {
+    color: #333;
+}
+h2 {
+    color: #00796b;
+}
+section {
+    margin-bottom: 40px;
+}
