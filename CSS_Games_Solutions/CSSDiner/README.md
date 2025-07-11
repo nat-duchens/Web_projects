@@ -156,7 +156,7 @@
 
 <img width="1847" height="913" alt="Level_19" src="https://github.com/user-attachments/assets/f55cf9ed-3766-412e-b6bc-de57c2965499" />
 
-🚨 `bento:nth-child(3)`
+🚨 `bento:nth-last-child(3)`
 
 ---
 
@@ -186,7 +186,80 @@
 
 ### ⭐ Level 23
 
+<img width="1847" height="913" alt="Level_23" src="https://github.com/user-attachments/assets/5e35605b-3b21-4ef4-9efb-8dc82bd7df2f" />
 
-🚨 `b`
+🚨 `plate apple:only-of-type`
+
+---
+
+### ⭐ Level 24
+
+<img width="1847" height="913" alt="Level_24" src="https://github.com/user-attachments/assets/628dc5b1-ec7c-43bf-94ed-19954330be49" />
+
+🚨 `orange:last-of-type, apple:last-of-type`
+
+---
+
+### ⭐ Level 25
+
+<img width="1847" height="913" alt="Level_25" src="https://github.com/user-attachments/assets/1f8938d7-d9e0-46c6-bb7c-258497ba566b" />
+
+🚨 `bento:empty`
+
+---
+
+### ⭐ Level 26
+
+<img width="1847" height="913" alt="Level_26" src="https://github.com/user-attachments/assets/985ee3b0-1bd0-4267-af79-1059725b4448" />
+
+🚨 `:not(plate, .small)`
+
+---
+
+### ⭐ Level 27
+
+<img width="1847" height="913" alt="Level_27" src="https://github.com/user-attachments/assets/c0c198a6-b9eb-4ac8-8945-849af65750a3" />
+
+🚨 `[for]`
+
+---
+
+### ⭐ Level 28
+
+<img width="1847" height="913" alt="Level_28" src="https://github.com/user-attachments/assets/12b9570e-5b57-4d44-aec5-d349f6d5ed3e" />
+
+🚨 `plate[for]`
+
+---
+
+### ⭐ Level 29
+
+<img width="1847" height="913" alt="Level_29" src="https://github.com/user-attachments/assets/42d4fcb9-f1ca-48d3-951a-17b3cb1dc62b" />
+
+🚨 `[for="Vitaly"]`
+
+---
+
+### ⭐ Level 30
+
+<img width="1847" height="913" alt="Level_30" src="https://github.com/user-attachments/assets/b574b39d-388f-48e9-bad8-5b8407091533" />
+
+🚨 `[for^="Sa"]`
+
+---
+
+### ⭐ Level 31
+
+<img width="1847" height="913" alt="Level_31" src="https://github.com/user-attachments/assets/5b903f16-b669-494a-8d40-864771d10825" />
+
+🚨 `[for$="ato"]`
+
+---
+
+### ⭐ Level 32
+
+<img width="1847" height="913" alt="Level_32" src="https://github.com/user-attachments/assets/0fa0b88d-f9bf-4eee-841d-bcacd64143dc" />
+
+🚨 `[for*="bb"]`
 
 ---
